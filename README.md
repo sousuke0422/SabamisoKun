@@ -6,3 +6,4 @@
 - restclient(gem, any)
 - nokogiri(gem, any)
 - google-api-client(gem, any)
+- niconico(gem, any)
